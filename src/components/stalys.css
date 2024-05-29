@@ -1,0 +1,22 @@
+.buttons{
+    width: 100%;
+    height: 80px;
+    border-radius: 20px;
+    background-color: #3c4d67;
+    margin: 7px;
+    display: flex;
+  }
+
+  .logo{
+    padding: 5px;
+    width: 70px;
+  }
+
+  p{
+    font-family: "Gudea", sans-serif;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
